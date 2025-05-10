@@ -1,5 +1,5 @@
 from listapersonas2 import *
-'''
+
 #9
 def mostrar_datos_mexico_ordenados()->list:
     lista_datos_mexicanos = []
@@ -61,7 +61,7 @@ def mostrar_datos_de_menores()->list:
 
 
 mostrar_datos_de_menores()
-'''
+
 
 #11
 
